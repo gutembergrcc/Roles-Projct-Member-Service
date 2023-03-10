@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ecore.admin.domain.team.TeamMemberTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-03-09T21:39:43" hostname="DESKTOP-1IMD8U7" time="0.014">
+  <properties/>
+  <testcase name="givenAInvalidTeam_whenCallNewTeamMember_thenInstantiateATeamMember()" classname="com.ecore.admin.domain.team.TeamMemberTest" time="0.005"/>
+  <testcase name="givenAInvalidRole_whenCallNewTeamMember_thenInstantiateATeamMember()" classname="com.ecore.admin.domain.team.TeamMemberTest" time="0.003"/>
+  <testcase name="givenAValidParams_whenCallNewTeamMember_thenInstantiateATeamMember()" classname="com.ecore.admin.domain.team.TeamMemberTest" time="0.002"/>
+  <testcase name="givenAInvalidUser_whenCallNewTeamMember_thenInstantiateATeamMember()" classname="com.ecore.admin.domain.team.TeamMemberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

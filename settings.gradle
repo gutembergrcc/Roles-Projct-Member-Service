@@ -1,0 +1,5 @@
+rootProject.name = 'roles-control'
+include 'domain'
+include 'application'
+include 'infrastructure'
+

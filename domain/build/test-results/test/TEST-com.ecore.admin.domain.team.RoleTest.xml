@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ecore.admin.domain.team.RoleTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-03-09T21:39:43" hostname="DESKTOP-1IMD8U7" time="0.059">
+  <properties/>
+  <testcase name="givenAnInvalidNullName_whenCallNewRoleyAndValidate_thenShouldReceiveError()" classname="com.ecore.admin.domain.team.RoleTest" time="0.033"/>
+  <testcase name="givenAInvalidNameMore255Chars_whenCallNewRoleyAndValidate_thenShouldReceiveError()" classname="com.ecore.admin.domain.team.RoleTest" time="0.001"/>
+  <testcase name="givenAnEmptyName_whenCallNewRoleyAndValidate_thenShouldReceiveError()" classname="com.ecore.admin.domain.team.RoleTest" time="0.002"/>
+  <testcase name="givenAnInvalidAcronymLess3_whenCallNewRoleyAndValidate_thenShouldReceiveError()" classname="com.ecore.admin.domain.team.RoleTest" time="0.002"/>
+  <testcase name="givenAValidParams_whenCallNewRole_thenInstantiateARole()" classname="com.ecore.admin.domain.team.RoleTest" time="0.002"/>
+  <testcase name="givenAnInvalidNullAcronym_whenCallNewRoleyAndValidate_thenShouldReceiveError()" classname="com.ecore.admin.domain.team.RoleTest" time="0.002"/>
+  <testcase name="givenAnInvalidAcronymMore30_whenCallNewRoleyAndValidate_thenShouldReceiveError()" classname="com.ecore.admin.domain.team.RoleTest" time="0.001"/>
+  <testcase name="givenAInvalidName_whenCallNewRoleyAndValidate_thenShouldReceiveError()" classname="com.ecore.admin.domain.team.RoleTest" time="0.003"/>
+  <testcase name="givenAnInvalidEmptyAcronym_whenCallNewRoleyAndValidate_thenShouldReceiveError()" classname="com.ecore.admin.domain.team.RoleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
